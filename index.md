@@ -1,3 +1,7 @@
+# Loops pt. 1 10/5/18
+
+This past week we have gone over loops, we started with a while(true) loop and are now progressing onto for loops. For loops will prove to be a very challenging lesson, but useful. I think these next few days will be not only informative but also a lot of fun. Overall, I am enjoying this class and learning a lot. I have understood the topics well so far, and I hope I will continue to understand and execute the homework for this class. 
+
 # If Expressions and Lists 9/27/2018
 
 This week and last week we learned about if statements and lists. If statements are basic programs that find the value of variables and run outcomes based on the values. i.e. if false : print("False") ; Lists are the next topic, and consist of making, editing, and using lists in a program. It stores more data for future use, and can be fairly complex. It helps coders create a data bank that they can draw information and variables from. I am enjoying coding, and hope to learn much more by the end of the year. 
