@@ -1,3 +1,7 @@
+# Loops pt. 2 10/12/18
+
+This past week we learned specifically about for loops. We have learned how to create a recurring loop that solves complex problems and allows the user to search for several unique elements in one group of datum. This has been a lot of fun and continues to amaze me at how simple, yet complex coding really is. I hope to continue progressing as quickly as I have been, and learning as much as I have already learned.
+
 # Loops pt. 1 10/5/18
 
 This past week we have gone over loops, we started with a while(true) loop and are now progressing onto for loops. For loops will prove to be a very challenging lesson, but useful. I think these next few days will be not only informative but also a lot of fun. Overall, I am enjoying this class and learning a lot. I have understood the topics well so far, and I hope I will continue to understand and execute the homework for this class. 
