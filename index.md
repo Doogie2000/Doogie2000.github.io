@@ -1,3 +1,9 @@
+# While Loops/Scope 10/26/18
+
+This week we learned about while loops and scope. While loops are loops that can run infinitelly until something changes and the value turns false, or true. This can result in an unending loop that can add to itself endlessly. We also learned about scope, which is how long a variable stays active. Scope can affect how you write your program by forcing you to set varaiables to zero, or create new variables. I continue to have a lot of fun in this class and I hope to include many more movie references in the rest of the year. Live long and prosper!
+
+---
+
 # Dictionaries 10/19/18
 
 This week we tackled dictionaries. It is a challenging subject, and difficult to fully grasp, but overall it unlocks a lot of new possibilities for future code. The homework this week will prove to be challenging and I hope I can complete it sufficiently. Overall I continue to enjoy the class and I find that as each topic builds I am having a more in depth understanding of Python and coding. 
