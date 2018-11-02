@@ -1,3 +1,9 @@
+# Functions 11/2/18
+
+This week we tackled the idea of functions. Functions are lines of code that can execute some task that is defined earlier in the code. Essentially they can remove the redundant code and instead just call a function. A couple examples are functions like print() and len(). They have been defined by Python, but we can define our own. This has been a bit of a challenge because functions can get very complicated if you're not carefull, but overall it has been fun and exciting and I hope I have the skill and ingenuity to finish the homework this week.
+
+---
+
 # While Loops/Scope 10/26/18
 
 This week we learned about while loops and scope. While loops are loops that can run infinitelly until something changes and the value turns false, or true. This can result in an unending loop that can add to itself endlessly. We also learned about scope, which is how long a variable stays active. Scope can affect how you write your program by forcing you to set varaiables to zero, or create new variables. I continue to have a lot of fun in this class and I hope to include many more movie references in the rest of the year. Live long and prosper!
