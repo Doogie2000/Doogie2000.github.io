@@ -1,3 +1,9 @@
+# Recursion 11/9/18
+
+This week we learned recursion. It is an interesting way of working with functions that involves calling the function that's running while it's already running. For example, find() is a function that finds the lowest number, but in order to so if its the lowest number you use recursion and call find() while find() is still working. This can be a lot to take in, but I found that I could understand it well, and it should make coding a lot easier, by not making me use anymore loops. Class contniues to be fun and I continue to learn more and more. I can't wait to see what we will learn next week.
+
+---
+
 # Functions 11/2/18
 
 This week we tackled the idea of functions. Functions are lines of code that can execute some task that is defined earlier in the code. Essentially they can remove the redundant code and instead just call a function. A couple examples are functions like print() and len(). They have been defined by Python, but we can define our own. This has been a bit of a challenge because functions can get very complicated if you're not carefull, but overall it has been fun and exciting and I hope I have the skill and ingenuity to finish the homework this week.
