@@ -1,3 +1,9 @@
+#Classes 11/16/18
+
+This week we were introduced to classes. Class is a way to group functions into classes that can run and be more specific for programs. As you create classes you create a new naming variable that can be more specific on calling series of programs. This allows coders to call specific series and solve various problems with pre-written code. This will prove to be very helpful and will prove to be fun and challenging in the futurue of this course. I continue to have a lot of fun and the ideas are chellenging, yet exciting.
+
+---
+
 # Recursion 11/9/18
 
 This week we learned recursion. It is an interesting way of working with functions that involves calling the function that's running while it's already running. For example, find() is a function that finds the lowest number, but in order to so if its the lowest number you use recursion and call find() while find() is still working. This can be a lot to take in, but I found that I could understand it well, and it should make coding a lot easier, by not making me use anymore loops. Class contniues to be fun and I continue to learn more and more. I can't wait to see what we will learn next week.
