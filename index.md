@@ -1,3 +1,9 @@
+# Classes 2.0 11/30/18
+
+This is the second week we have worked on classes. Classes give coders a way to group functions and run complex code. This allows coders to pull from different files and have more powerful soltions. It also gives coders more specific options because it can differentiate between classes. Overall, classes are fun to use and somewhat difficult.
+
+---
+
 # Classes 11/16/18
 
 This week we were introduced to classes. Class is a way to group functions into classes that can run and be more specific for programs. As you create classes you create a new naming variable that can be more specific on calling series of programs. This allows coders to call specific series and solve various problems with pre-written code. This will prove to be very helpful and will prove to be fun and challenging in the futurue of this course. I continue to have a lot of fun and the ideas are chellenging, yet exciting.
