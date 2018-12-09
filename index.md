@@ -1,3 +1,9 @@
+# Go_Fish and Exception 12/7/18
+
+This week we learned how to code the game of Go Fish with classes and functions. This proved to be a challenge especially since there are some interesting rules to go fish. I overall enjoy this class and the direct challenges that it poses. We also covered exceptions, which are error messages. 
+
+---
+
 # Classes 2.0 11/30/18
 
 This is the second week we have worked on classes. Classes give coders a way to group functions and run complex code. This allows coders to pull from different files and have more powerful soltions. It also gives coders more specific options because it can differentiate between classes. Overall, classes are fun to use and somewhat difficult.
