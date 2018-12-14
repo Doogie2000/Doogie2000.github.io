@@ -1,3 +1,9 @@
+# Fish 12/14/18
+
+This week we've begun to work on a raspberry pi project that will involve using classes, functions, lists, and a few new coding tricks. This project will feature an aquarium like display where we can feed fish, an possibly integrate a fight alien mode. This will be a fun challenge and will be really cool. Our next task will be to make the fish move about in a "random" way. Hope all goes well.
+
+---
+
 # Go_Fish and Exception 12/7/18
 
 This week we learned how to code the game of Go Fish with classes and functions. This proved to be a challenge especially since there are some interesting rules to go fish. I overall enjoy this class and the direct challenges that it poses. We also covered exceptions, which are error messages. 
